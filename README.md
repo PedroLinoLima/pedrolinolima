@@ -29,8 +29,6 @@
  
 <img align="left" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
  
-<br>
- 
 <img align="left" src="https://user-images.githubusercontent.com/62961331/116013676-caa93200-a607-11eb-841f-31b600c80101.png">
 <br>
 </div>
