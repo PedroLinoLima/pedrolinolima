@@ -2,7 +2,7 @@
 
  ##
 
-### 👋🏼😎 Olá eu sou Pedro Lino de Lima
+### 👋🏼😎 Olá venha saber mais sobre meu perfil:
 
  ##
 
