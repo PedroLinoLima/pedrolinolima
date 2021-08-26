@@ -28,8 +28,11 @@
 <img align="left" src="https://camo.githubusercontent.com/19f686ee7be9e84e002135a16411658939d431a3f6c7f513498ff2d1e511b5b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465">
  
 <img align="left" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+ 
 <br>
+ 
 <img align="left" src="https://user-images.githubusercontent.com/62961331/116013676-caa93200-a607-11eb-841f-31b600c80101.png">
+<br>
 </div>
   
   ##
