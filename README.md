@@ -1,4 +1,4 @@
-### 👋🏼😎 Olá Eu sou Pedro Lino de Lima
+### 👋🏼😎 Olá eu sou Pedro Lino de Lima
 
  ##
 
