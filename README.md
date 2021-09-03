@@ -7,7 +7,7 @@
  ##
 
 - 📚 Cursando o 3° semestre de técnico em Desenvolvimento de Sistemas no SENAI Jandira
-- 💻 Pretendo seguir carreira na área de Desenvolvimento Banco de Dados e Kotlin (Android Studio)
+- 💻 Pretendo seguir carreira na área de Desenvolvimento Banco de Dados ou Kotlin (Android Studio)
 - 🚀 Sempre sonhe alto
 
  <div>
