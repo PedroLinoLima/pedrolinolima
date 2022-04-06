@@ -6,7 +6,8 @@
 
  ##
 
-- 📚 Cursando o 3° semestre de técnico em Desenvolvimento de Sistemas no SENAI Jandira
+- 📚 Formado no curso técnico em Desenvolvimento de Sistemas no SENAI Jandira
+- 📚 Cursando Engenharia de Software Bacharelado na faculdade Anhaguera
 - 💻 Pretendo seguir carreira na área de Desenvolvimento Banco de Dados ou Kotlin (Android Studio)
 - 🚀 Sempre sonhe alto
 
