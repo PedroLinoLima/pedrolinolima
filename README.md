@@ -7,8 +7,8 @@
  ##
 
 - 📚 Formado no curso técnico em Desenvolvimento de Sistemas no SENAI Jandira
-- 📚 Cursando Engenharia de Software Bacharelado na faculdade Anhaguera
-- 💻 Pretendo seguir carreira na área de Desenvolvimento Banco de Dados ou Kotlin (Android Studio)
+- 📚 Cursando Engenharia de Software Bacharelado na faculdade Cruzeiro do Sul
+- 💻 Pretendo seguir carreira na área de Desenvolvimento Banco de Dados, Cobol e HTML
 - 🚀 Sempre sonhe alto
 
  <div>
