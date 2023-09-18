@@ -8,7 +8,7 @@
 
 - 📚 Formado no curso técnico em Desenvolvimento de Sistemas no SENAI Jandira
 - 📚 Cursando Engenharia de Software Bacharelado na faculdade Cruzeiro do Sul
-- 💻 Pretendo seguir carreira na área de Desenvolvimento Banco de Dados, Cobol e HTML
+- 💻 Pretendo seguir carreira na área de Desenvolvimento de Sistemas com Banco de Dados, Cobol ou HTML
 - 🚀 Sempre sonhe alto
 
  <div>
