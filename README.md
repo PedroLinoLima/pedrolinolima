@@ -74,7 +74,7 @@
  <a href="mailto:pedrolinodelima@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
  <br>
  <br>
-  <a href="https://api.whatsapp.com/send?phone=5511940061331&text=Ol%C3%A1%2C%20voc%C3%AA%20entrou%20em%20contato%20com%20Pedro%20Lino%20de%20Lima%2C%20aguarde%20uma%20resposta." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="[[https://api.whatsapp.com/send?phone=5511940061331&text=Ol%C3%A1%2C%20voc%C3%AA%20entrou%20em%20contato%20com%20Pedro%20Lino%20de%20Lima%2C%20aguarde%20uma%20resposta.](https://w.app/e0gw7y)](https://w.app/e0gw7y)" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
  
  ![Snake animation](https://github.com/pedrolinolima/pedrolinolima/blob/output/github-contribution-grid-snake.svg)
 </div>
